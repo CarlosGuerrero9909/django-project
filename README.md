@@ -1,5 +1,7 @@
 # proyectoBackPython
 
+![img-django-project](https://user-images.githubusercontent.com/90810310/186043197-da57762b-cc69-4224-9a35-97d6c70b6cad.png)
+
 Lista de endpoint funcionales
 - http://localhost:8000/ --> Api Root: ruta por defecto
 - http://localhost:8000/carreras/ --> Carrera List: endpoint donde se encuentran todas la carreras registradas con su codigo, nombre y materias asociadas a la misma
