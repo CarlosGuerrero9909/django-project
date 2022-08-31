@@ -1,6 +1,5 @@
 # proyectoBackPython
-
-![img-django-project](https://user-images.githubusercontent.com/90810310/186043197-da57762b-cc69-4224-9a35-97d6c70b6cad.png)
+[recording-2022-08-31-17-42-33.webm](https://user-images.githubusercontent.com/90810310/187797765-64a6bb18-f887-4ce3-9bd0-66a3d76c334d.webm)
 
 Lista de endpoint funcionales
 - http://localhost:8000/ --> Api Root: ruta por defecto
